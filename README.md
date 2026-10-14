@@ -31,6 +31,22 @@ Public-source reproduction, controlled experiments and topology/physical auditin
 - Best verified submission: Public 0.95387 / Private 0.91780
 - Focus: reproducibility, trajectory continuity, gap repair and evidence-backed iteration
 
+### [Da Youhui — Student Discount Discovery and Review](https://github.com/Cluckin-VV/da-youhui)
+
+A sanitized, mobile-first Next.js/PostgreSQL portfolio project for collecting, reviewing, publishing and maintaining student discounts.
+
+- Evidence and expiry-aware review workflow
+- Web application + WeChat Mini Program client
+- 17 automated tests; production build verified locally
+
+### [Metro Card Ridership Forecast](https://github.com/Cluckin-VV/metro-card-ridership-forecast)
+
+A reproducible transport-data project covering chronological forecasting, high-demand classification, day-type clustering and failure-case analysis.
+
+- Regression: MAPE 7.9564%, R² 0.8944
+- Classification: F1 0.9149, ROC-AUC 0.9650
+- 18 automated tests; public data downloader pins and verifies the dataset snapshot
+
 ### [Personal Content Intelligence](https://github.com/Cluckin-VV/personal-content-intelligence)
 
 A local-first content-intelligence design exploring evidence extraction, claim verification and knowledge accumulation. The repository currently documents architecture and product decisions.
