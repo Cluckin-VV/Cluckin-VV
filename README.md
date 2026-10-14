@@ -29,7 +29,7 @@ A controllable 3D traffic-world builder with preview, confirmation, execution, u
 
 - [Pokémon TCG AI Battle](https://github.com/Cluckin-VV/kaggle-pokemon-agent): replay-driven policy iteration; best observed public score **919.9**, explicitly treated as volatile rather than a stable estimate
 - [AI Agent Security: Multi-Step Tool Attacks](https://github.com/Cluckin-VV/kaggle-agent-security-case-study): 13 local mechanism tests, 18 replay candidates; best observed public score **88.785**; exploit payloads withheld
-- [Biohub Cell Tracking](https://www.kaggle.com/cluckinvv): public-source reproduction and trajectory auditing; verified **Public 0.95387 / Private 0.91780**
+- [Biohub Cell Tracking case study](case-studies/biohub-cell-tracking.md): public-source reproduction, fusion and model-member comparisons, and trajectory auditing; [Kaggle results](https://www.kaggle.com/cluckinvv)
 
 ### [Backend Reliability Labs](https://github.com/Cluckin-VV/backend-reliability-labs)
 
