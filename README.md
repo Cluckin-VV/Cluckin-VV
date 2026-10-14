@@ -11,7 +11,7 @@ GitHub: [Cluckin-VV](https://github.com/Cluckin-VV) · Kaggle: [cluckinvv](https
 
 Sanitized case studies from an AI Agent and data-product internship. The featured project is an evidence-linked operations-agent POC with explicit states, customer isolation, selective memory, quality gates and human approval.
 
-- current local Operations Agent POC verified with **77 automated tests**
+- current local Operations Agent core POC verified with **62 automated regression tests**
 - ChinaList authenticated subscription experience: **14 unit tests + typecheck + lint + production build**
 - AI weekly-report refactor: task identity, node retries, input hashes, audit gates and evaluation archives
 - employer code, credentials, customer data, internal endpoints and production screenshots are not redistributed
