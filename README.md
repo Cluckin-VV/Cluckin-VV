@@ -47,6 +47,14 @@ A reproducible transport-data project covering chronological forecasting, high-d
 - Classification: F1 0.9149, ROC-AUC 0.9650
 - 18 automated tests; public data downloader pins and verifies the dataset snapshot
 
+### [Python LRU Cache](https://github.com/Cluckin-VV/python-lru-cache)
+
+An exact LRU cache implemented with a hash map and doubly linked list, including invariant checks, pointer-case reasoning and complexity boundaries.
+
+- O(1) average-time core get/put operations
+- 18 tests covering eviction, recency, sentinels and structural invariants
+- Explicit distinction between core-operation complexity and debug audit cost
+
 ### [Personal Content Intelligence](https://github.com/Cluckin-VV/personal-content-intelligence)
 
 A local-first content-intelligence design exploring evidence extraction, claim verification and knowledge accumulation. The repository currently documents architecture and product decisions.
